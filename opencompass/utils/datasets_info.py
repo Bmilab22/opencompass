@@ -277,6 +277,12 @@ DATASETS_MAPPING = {
         "hf_id": "THUDM/LongBench",
         "local": "./data/Longbench",
     },
+    # OmniDocbench
+    "opencompass/OmniDocbench": {
+        "ms_id": "",
+        "hf_id": "",
+        "local": "./data/OmniDocbench",
+    },
     # Needlebench
     "opencompass/needlebench": {
         "ms_id": "",
